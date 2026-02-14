@@ -1,28 +1,31 @@
 
-
 <p align="center">
-  <img src="image.png" width="180" style="border-radius: 50%;" />
+  <img src="image.png" width="160" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Deepthi Allamudi</h1>
 <h3 align="center">✨ Full Stack Web Developer | React • Express • UI Enthusiast ✨</h3>
 
 <p align="center">
-  <a href="https://deepthi-portfolio-cr8g.onrender.com/" target="_blank">
-    🌐 View My Portfolio
+  <a href="https://deepthi-portfolio-cr8g.onrender.com/">
+    <img src="https://img.shields.io/badge/View-Portfolio-f6c453?style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F4B6C2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Express+%7C+Supabase;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💛 About Me
 
-I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+I am a passionate **Full Stack Web Developer** who enjoys building clean, responsive, and scalable applications.
 
-💛 I love combining clean UI design with strong backend logic.  
-🚀 I focus on writing maintainable code and creating smooth user experiences.  
-🌱 Constantly learning and improving every day.
+✨ I love combining modern UI with strong backend logic  
+✨I enjoy turning ideas into elegant digital experiences and continuously pushing myself to build better, smarter, and cleaner applications.
+✨ I focus on user-friendly and performance-optimized applications  
+✨ I enjoy continuous learning and improving every day  
 
 ---
 
@@ -44,7 +47,7 @@ I'm a passionate **Full Stack Web Developer** who enjoys building modern, respon
   <img src="https://img.shields.io/badge/Express-ffb6c1?style=for-the-badge&logo=express&logoColor=black" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Tools
 <p>
   <img src="https://img.shields.io/badge/Supabase-f4b6c2?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-f6c453?style=for-the-badge&logo=postman&logoColor=black" />
@@ -52,12 +55,7 @@ I'm a passionate **Full Stack Web Developer** who enjoys building modern, respon
   <img src="https://img.shields.io/badge/VS_Code-fde68a?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
 </p>
 
-- 🔭 I’m currently working on ...
-  
-<p>✨i am currently working on a personal project which is a book club app.
-  It fatures a interactive book community, book organiser ,a digital library and a lot of fun and interactive functionalities.
- ✨</h3>
-
+---
 
 ## 🚀 Featured Project
 
@@ -75,20 +73,13 @@ A modern animated portfolio built with **React + Vite**, featuring:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine" />
-</p>
+## 🔭 I’m currently working on ...
+  
+<p>✨i am currently working on a personal project which is a book club app.
+  It fatures a interactive book community, book organiser ,a digital library and a lot of fun and interactive functionalities.
+ ✨</p>
 
 ---
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: 
-- 🌐 Portfolio: https://deepthi-portfolio-cr8g.onrender.com/
-- 📧 Email: deepthiallamudi@gmail.com
-
----
-
 ## 🌟 Current Focus
 
 - Advanced React patterns  
@@ -96,13 +87,23 @@ A modern animated portfolio built with **React + Vite**, featuring:
 - Performance optimization  
 - Clean UI/UX design  
 
----
-
-## 💛 A Little About Me
-
-I enjoy turning ideas into elegant digital experiences and continuously pushing myself to build better, smarter, and cleaner applications. I enjoy reading books during my free time.
 
 ---
 
-⭐ Feel free to explore my repositories and connect!
+## 🌸 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/deepthi_allamudi 
+- 🌐 Portfolio: https://deepthi-portfolio-cr8g.onrender.com/  
+- 📧 Email: deepthiallamudi@gmail.com  
+
+---
+
+⭐ Thanks for visiting my profile!  Feel free to explore my repositories and connect!
+
+
+
+
+
+
+
 
