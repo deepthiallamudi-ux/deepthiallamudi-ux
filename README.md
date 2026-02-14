@@ -53,8 +53,10 @@ I'm a passionate **Full Stack Web Developer** who enjoys building modern, respon
 </p>
 
 - 🔭 I’m currently working on ...
-i am currently working on a personal project which is a book club app
-its still need a lot of work and there are so many features that still  need to be developed.
+  
+<p>✨i am currently working on a personal project which is a book club app.
+  It fatures a interactive book community, book organiser ,a digital library and a lot of fun and interactive functionalities.
+ ✨</h3>
 
 
 ## 🚀 Featured Project
@@ -72,12 +74,6 @@ A modern animated portfolio built with **React + Vite**, featuring:
 👉 https://deepthi-portfolio-cr8g.onrender.com/
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine" />
@@ -104,7 +100,7 @@ A modern animated portfolio built with **React + Vite**, featuring:
 
 ## 💛 A Little About Me
 
-I enjoy turning ideas into elegant digital experiences and continuously pushing myself to build better, smarter, and cleaner applications.
+I enjoy turning ideas into elegant digital experiences and continuously pushing myself to build better, smarter, and cleaner applications. I enjoy reading books during my free time.
 
 ---
 
