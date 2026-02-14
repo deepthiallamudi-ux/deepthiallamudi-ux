@@ -92,7 +92,7 @@ A modern animated portfolio built with **React + Vite**, featuring:
 
 ## 🌸 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/deepthi_allamudi 
+- 💼 LinkedIn: https://linkedin.com/in/deepthi_allamudi-5b338715b 
 - 🌐 Portfolio: https://deepthi-portfolio-cr8g.onrender.com/  
 - 📧 Email: deepthiallamudi@gmail.com  
 
